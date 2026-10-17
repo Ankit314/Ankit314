@@ -4,6 +4,7 @@
 
 **MERN Stack Developer** · Chandigarh, India · 2+ years building scalable, enterprise-grade web apps
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00f0ff?style=for-the-badge)](https://ankit-universe.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-Download-39ff14?style=for-the-badge)](https://raw.githubusercontent.com/Ankit314/gameprotfolio/main/client/public/Ankit_Kumar_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-73890a255)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumar26464@gmail.com)
@@ -22,7 +23,7 @@ Currently a MERN Stack Developer at **AllHeartWeb**, building a multitenant CRM/
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[gameprotfolio](https://github.com/Ankit314/gameprotfolio)** | A playable 3D portfolio — walk through my education, experience, and projects | React Three Fiber · Node · Express |
+| **[gameprotfolio](https://github.com/Ankit314/gameprotfolio)** ([live](https://ankit-universe.vercel.app)) | A playable 3D portfolio — walk through my education, experience, and projects | React Three Fiber · Node · Express |
 | **[foodDelivery](https://github.com/Ankit314/foodDelivery)** | Full-stack food ordering platform: storefront, admin dashboard, REST API, Stripe checkout | React · Node · Express · MongoDB |
 | **[OnlineLibraryProject](https://github.com/Ankit314/OnlineLibraryProject)** | Browse, search, and catalog books by category | React · Redux |
 | **[ReactProject](https://github.com/Ankit314/ReactProject)** | A recreation of the Google Gemini chat UI, wired to the real Gemini API | React · `@google/generative-ai` |
